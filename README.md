@@ -20,8 +20,8 @@ Clone the project
 
 
 ## Demo
-```
-  https://getyourjokes.netlify.app/
+```link
+  https://get-your-quote.netlify.app/
 ```
 
 
@@ -41,8 +41,8 @@ Clone the project
 
 ## Screenshots
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/84404257/191676956-fc0ad8af-7ba8-4317-a500-9c67702e3e2d.png">
-  <img src="https://user-images.githubusercontent.com/84404257/191689284-e5454804-c69c-42b1-b25c-08d8272d400f.jpeg" width="300" height="600">
+  <img src="https://user-images.githubusercontent.com/84404257/196021729-0812ae0a-5327-405c-885b-408932f87b2e.png">
+
 
 </div>
 
