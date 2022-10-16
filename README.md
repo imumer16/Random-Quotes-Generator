@@ -14,7 +14,7 @@ Javascript, HTML, CSS...
 Clone the project
 
 ```bash
-  git clone https://github.com/imumer16/Random-Jokes-Generator.git
+  git clone https://github.com/imumer16/Random-Quotes-Generator.git
 ```
 
 
@@ -29,8 +29,8 @@ Clone the project
 
 #### Get all items
 
-```
-  GET /official-joke-api.appspot.com/random_joke
+```js
+  GET /https://api.quotable.io/random
 ```
 
 | Parameter | Type     | Description                |
